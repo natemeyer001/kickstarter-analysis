@@ -1,0 +1,4 @@
+Status: successful
+Average Donation: $71.24
+Duration: 1 month
+Backers: 173
