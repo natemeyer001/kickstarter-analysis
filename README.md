@@ -42,4 +42,4 @@ In general that higher the goal, the lower the chance of success. However, betwe
 There is no accounting for who set up/shared the campaign - was it one person in Ely, MN with no social media following? Or was it a set up/shared by a team of savy social media experts who shared it to their large following? Also, the data tells us the total donations as well as the number of backers, which allows us to calculate average donation, but does not provide info on the distribution of donations or the timing of the donations. One hypothesis is that campaigns are more likely to be successful if a big donation is done early on, but that is not testable given the data.
 
 **What are some other possible tables and/or graphs that we could create?**
-Outcomes based on average donation. Outcomes based on length of time ta reach goal.
+Outcomes based on average donation. Outcomes based on length of time to reach goal.
